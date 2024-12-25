@@ -1,0 +1,6 @@
+Admin Credential
+email:- admin123@gmail.com
+password:-admin@123
+
+database name:-gppa
+database is in database folder
